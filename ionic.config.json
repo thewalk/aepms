@@ -1,0 +1,7 @@
+{
+  "name": "aepms",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
